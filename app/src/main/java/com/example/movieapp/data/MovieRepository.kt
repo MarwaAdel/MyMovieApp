@@ -1,7 +1,6 @@
 package com.example.movieapp.data
 
 import com.example.movieapp.retrofit.RetrofitInstance
-import com.example.movieapp.retrofit.RetrofitService
 import javax.inject.Inject
 
 class MovieRepository @Inject constructor(){
